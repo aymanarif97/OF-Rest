@@ -1,5 +1,5 @@
 
-# Ayman Book Link https://github.com/AymanArif/Notes/master/Java/Effective-Java/README.md
+ Ayman Book Link https://github.com/AymanArif/Notes/tree/master/Java/Effective-Java
 [YT Link](https://www.youtube.com/watch?v=ANZXvXVa1Lg)
 
 # Timeline
